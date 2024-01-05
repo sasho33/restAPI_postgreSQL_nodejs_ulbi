@@ -1,4 +1,4 @@
-# Project Name
+# REST API
 
 REST api using node JS, express, postgreSQL
 
