@@ -36,3 +36,5 @@ class PostController {
     res.json(post.rows[0]);
   }
 }
+
+module.exports = new PostController();
